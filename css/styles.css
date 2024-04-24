@@ -1,0 +1,22 @@
+body {
+    
+    span {
+        font-weight:bold;
+      }
+  #boldClass
+  {
+    font-weight:bold;
+  }
+  h1{
+    text-align: center;
+  }
+  h1,h2{
+    background-color: aqua;
+  }
+  h1,h2,h3{
+    background-color:bisque;
+  }
+  h3{
+    text-shadow:2px red;
+  }
+  }
